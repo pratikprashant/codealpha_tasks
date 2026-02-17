@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+__pycache__/
+
+.ipynb_checkpoints/
+
+*.h5
+*.csv
+*.pkl
+*.gzip
+
+Handwritten Character Recognition/emnist-balanced-mapping.txt
+Handwritten Character Recognition/static/
